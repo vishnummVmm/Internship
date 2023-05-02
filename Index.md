@@ -12,28 +12,41 @@
   An embedded system is a computer system a combination of a computer processor, computer memory, and input/output peripheral devices that has a dedicated function within a larger mechanical or electronic system.
   
   Embedded systems examples
-Standalone embedded systems	Network embedded systems	Mobile embedded systems	Real-time embedded systems
-Digital cameras
+  
+  
+## Standalone embedded systems 	 	 	
+* Digital cameras
 
-Digital watches
+* Digital watches
 
-Temperature measurement systems
+* Temperature measurement systems
 
-Washing machines	Home security systems
+* Washing machines	
 
-Point of sale (POS) systems
+## Network embedded systems
 
-Automated teller machines (ATMs)	Cell phones
+* Home security systems
 
-Laptops
+* Point of sale (POS) systems
 
-Tablets
+* Automated teller machines (ATMs)
 
-Smartwatches	Self-driving vehicle controls
+## Mobile embedded systems
 
-Aircraft control systems
+* Cell phones
 
-Medical devices and patient monitoring systems
+* Laptops
+
+* Tablets
+
+* Smartwatches
+## Real-time embedded systems
+
+* Self-driving vehicle controls
+
+* Aircraft control systems
+
+* Medical devices and patient monitoring systems
 
   
   
