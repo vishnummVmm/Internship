@@ -52,3 +52,10 @@
   
 
 ![DHCOM_Computer_On_Module_-_AM35x](https://user-images.githubusercontent.com/132332560/235626395-5d3e673b-f096-4a01-84b6-38f961f9f7ca.jpg)
+
+
+## Day 2 - 02-05-2023
+![Screenshot 2023-05-04 101034](https://user-images.githubusercontent.com/132332560/236113974-227f5761-de5d-4290-94a5-24a7aa5feba3.jpg)
+
+
+[tinker this ckt](https://www.tinkercad.com/things/8WsRs485f6d)
