@@ -62,10 +62,6 @@
 
 ![Screenshot 2023-05-04 102425](https://user-images.githubusercontent.com/132332560/236133671-0e65f304-2a76-4aa3-bb50-404f4a6cf49d.jpg)
 
-
-
-
-
 [circuit 3](https://www.tinkercad.com/things/5OftqEwYLHs)
 
 
@@ -73,3 +69,7 @@
 ![Screenshot 2023-05-04 123010](https://user-images.githubusercontent.com/132332560/236132850-b7694086-d2e7-4481-8103-91a8fa1186d2.jpg)
 
 [button](https://www.tinkercad.com/things/f7MBstKLq0C)
+
+
+![Screenshot 2023-05-04 125414](https://user-images.githubusercontent.com/132332560/236137301-66b4321d-11a2-4db1-b0ce-67b1a298397d.jpg)
+[analog](https://www.tinkercad.com/things/gHgFX6VSCIa)
