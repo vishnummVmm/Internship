@@ -60,6 +60,7 @@
 
 [tinker this ckt](https://www.tinkercad.com/things/8WsRs485f6d)
 
+![Screenshot 2023-05-04 102425](https://user-images.githubusercontent.com/132332560/236133671-0e65f304-2a76-4aa3-bb50-404f4a6cf49d.jpg)
 
 
 
