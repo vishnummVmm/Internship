@@ -59,3 +59,10 @@
 
 
 [tinker this ckt](https://www.tinkercad.com/things/8WsRs485f6d)
+
+
+
+
+
+
+[circuit 3](https://www.tinkercad.com/things/5OftqEwYLHs)
