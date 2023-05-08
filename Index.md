@@ -79,12 +79,27 @@
 
 ## Day 5-
 
-(1)ADD TWO NUMBER
+##PYTHON
+
+Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation via the off-side rule. Python is dynamically typed and garbage-collected.Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+
+Often, programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesn't catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective.
+
+
+
+(1)INTRO
+
+![Screenshot 2023-05-08 115019 (3)](https://user-images.githubusercontent.com/132332560/236797336-e0796efe-cbe5-446d-9b92-a347474cd0ce.jpg)
+
+
+
+(2)ADD TWO NUMBER
 ![Screenshot 2023-05-08 115019](https://user-images.githubusercontent.com/132332560/236774461-4ef8184a-4776-4a7e-893b-3acef5f4c4db.jpg)
 
 
 
-(2)LARGEST NUMBER 
+
+(3)LARGEST NUMBER 
 
 
 ![Screenshot 2023-05-08 150114](https://user-images.githubusercontent.com/132332560/236790272-c8969f02-59f6-41ad-8de0-4d73e8ada082.jpg)
