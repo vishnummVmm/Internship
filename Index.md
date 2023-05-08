@@ -73,3 +73,10 @@
 
 ![Screenshot 2023-05-04 125414](https://user-images.githubusercontent.com/132332560/236137301-66b4321d-11a2-4db1-b0ce-67b1a298397d.jpg)
 [analog](https://www.tinkercad.com/things/gHgFX6VSCIa)
+
+
+
+
+## Day 5-
+
+![Screenshot 2023-05-08 115019](https://user-images.githubusercontent.com/132332560/236774461-4ef8184a-4776-4a7e-893b-3acef5f4c4db.jpg)
