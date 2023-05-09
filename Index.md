@@ -128,4 +128,8 @@ Often, programmers fall in love with Python because of the increased productivit
 
 ![Screenshot 2023-05-09 101734](https://user-images.githubusercontent.com/132332560/236997232-f8ef8c1b-3620-4aa5-b899-b28ba4f2025b.jpg)
 
+## (7) vowel or consonent
+
+![Screenshot 2023-05-09 112944](https://user-images.githubusercontent.com/132332560/237008732-26656a5f-d7f3-4622-b998-bd3ec0344806.jpg)
+
 
