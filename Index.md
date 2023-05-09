@@ -142,4 +142,6 @@ Often, programmers fall in love with Python because of the increased productivit
 
 ![Screenshot 2023-05-09 142910](https://user-images.githubusercontent.com/132332560/237047691-960b9756-e1ea-4633-8555-2f8a0386f24f.jpg)
 
+## (10) calculator using function
 
+![Screenshot 2023-05-09 145448](https://user-images.githubusercontent.com/132332560/237053735-f70b3045-62f2-4da5-8d65-8f53b7b8a9bf.jpg)
