@@ -156,4 +156,6 @@ Often, programmers fall in love with Python because of the increased productivit
 
 ![Screenshot 2023-05-09 154032](https://github.com/vishnummVmm/Internship/assets/132332560/18789399-5a48-4698-97a4-f2231f6f1380)
 
-## (13) 
+## (13) Given number is +ve or -ve 
+
+![Screenshot 2023-05-09 154844](https://github.com/vishnummVmm/Internship/assets/132332560/219cae12-954e-4302-a840-be435fc82294)
