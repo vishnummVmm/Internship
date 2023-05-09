@@ -145,3 +145,10 @@ Often, programmers fall in love with Python because of the increased productivit
 ## (10) calculator using function
 
 ![Screenshot 2023-05-09 145448](https://user-images.githubusercontent.com/132332560/237053735-f70b3045-62f2-4da5-8d65-8f53b7b8a9bf.jpg)
+
+
+## (11) sum of n numbers
+
+![Screenshot 2023-05-09 154032](https://github.com/vishnummVmm/Internship/assets/132332560/b9e8a01b-4659-4e62-9183-3e3ff44b99f3)
+
+
