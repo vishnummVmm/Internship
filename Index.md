@@ -136,4 +136,10 @@ Often, programmers fall in love with Python because of the increased productivit
 
 ![Screenshot 2023-05-09 120338](https://user-images.githubusercontent.com/132332560/237013368-af98d2b5-6694-42b1-9c5a-f687f269bbe0.jpg)
 
+## Day 7
+
+## (9) SUM OF TWO NUMBER USING FUNCTION
+
+![Screenshot 2023-05-09 142910](https://user-images.githubusercontent.com/132332560/237047691-960b9756-e1ea-4633-8555-2f8a0386f24f.jpg)
+
 
