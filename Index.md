@@ -132,7 +132,7 @@ Often, programmers fall in love with Python because of the increased productivit
 
 ![Screenshot 2023-05-09 112944](https://user-images.githubusercontent.com/132332560/237008732-26656a5f-d7f3-4622-b998-bd3ec0344806.jpg)
 
-## (8) fibanacchi series
+## (8) fibanacci series
 
 ![Screenshot 2023-05-09 120338](https://user-images.githubusercontent.com/132332560/237013368-af98d2b5-6694-42b1-9c5a-f687f269bbe0.jpg)
 
