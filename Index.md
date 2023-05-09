@@ -87,28 +87,45 @@ Often, programmers fall in love with Python because of the increased productivit
 
 
 
-(1)INTRO
+## (1) INTRO
 
 ![Screenshot 2023-05-08 115019 (3)](https://user-images.githubusercontent.com/132332560/236797336-e0796efe-cbe5-446d-9b92-a347474cd0ce.jpg)
 
 
 
-(2)ADD TWO NUMBER
+## (2) ADD TWO NUMBER
 ![Screenshot 2023-05-08 115019](https://user-images.githubusercontent.com/132332560/236774461-4ef8184a-4776-4a7e-893b-3acef5f4c4db.jpg)
 
 
 
 
-(3)LARGEST NUMBER 
+ ## (3) LARGEST NUMBER 
 
 
 ![Screenshot 2023-05-08 150114](https://user-images.githubusercontent.com/132332560/236790272-c8969f02-59f6-41ad-8de0-4d73e8ada082.jpg)
 
 
-(4)CALCULATOR
+## (4) CALCULATOR
 
 
 
 ![Screenshot 2023-05-08 160133 (2)](https://user-images.githubusercontent.com/132332560/236991560-e46a2c96-3209-4f03-a66d-f760dcad822b.jpg)
+
+## Day 6
+
+
+## (5) ODD OR EVEN
+
+
+![Screenshot 2023-05-09 100350](https://user-images.githubusercontent.com/132332560/236996828-a8b3a75f-9089-4f4d-9352-d3606307d441.jpg)
+
+![Screenshot 2023-05-09 100451](https://user-images.githubusercontent.com/132332560/236996896-8ee2e186-7c93-43f3-8276-987ffdf7b2ad.jpg)
+
+![Screenshot 2023-05-09 100525](https://user-images.githubusercontent.com/132332560/236996933-622e3f8d-aeed-45a8-a327-493adbf21e93.jpg)
+
+
+## (6) MULTIPLICATION TABLE
+
+![Screenshot 2023-05-09 101734](https://user-images.githubusercontent.com/132332560/236997232-f8ef8c1b-3620-4aa5-b899-b28ba4f2025b.jpg)
 
 
