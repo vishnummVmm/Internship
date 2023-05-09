@@ -151,4 +151,9 @@ Often, programmers fall in love with Python because of the increased productivit
 
 ![Screenshot 2023-05-09 154032](https://github.com/vishnummVmm/Internship/assets/132332560/b9e8a01b-4659-4e62-9183-3e3ff44b99f3)
 
+## (12) Given number is even or odd 
 
+
+![Screenshot 2023-05-09 154032](https://github.com/vishnummVmm/Internship/assets/132332560/18789399-5a48-4698-97a4-f2231f6f1380)
+
+## (13) 
